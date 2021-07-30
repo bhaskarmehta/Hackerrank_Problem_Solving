@@ -1,5 +1,6 @@
 def gradingStudents(grades):
     # Write your code here
+    # we are writing python code
     for i in range(0,len(grades)):
         if(grades[i]>=38):
                 diff=5-(grades[i]%5)
