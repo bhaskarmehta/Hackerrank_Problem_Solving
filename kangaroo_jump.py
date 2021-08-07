@@ -19,3 +19,13 @@ def kangaroo(x1, v1, x2, v2):
 
 
 print(kangaroo(0 ,3, 4, 2))
+width=15
+height=12.0
+print(height/3)
+for k in range(1, len(s)):
+    if i + 1 == k:
+        while j < m:
+            sum = s[i] + s[k]
+            if sum == d:
+                count += 1
+            j += 1
